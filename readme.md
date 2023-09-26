@@ -1,8 +1,9 @@
-# Hola
+# Hola 👋
 
 Estas es mi perfil en Github, aqui ire subiendo todos los proyectos de programación. 
 
 
+## 🏆 Skills
 
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript)
 ![HTML](https://img.shields.io/badge/Web-HTML-blue?logo=html)
