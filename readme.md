@@ -1,3 +1,7 @@
 Hola que tal
 
-[![(JavaScript]https://img.shields.io/badge/Web-JavaScript-blue)]()
+## Skills
+
+![(JavaScript]https://img.shields.io/badge/Web-JavaScript-blue)]()
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
